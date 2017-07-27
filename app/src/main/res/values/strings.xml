@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QrReaderToyApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_barcode_captured">Couldn\'t read any barcode</string>
+    <string name="barcode_error_format">barcode error ( format)</string>
+    <string name="ok">OK</string>
+    <string name="low_storage_error">Device memory too low to run QR scanner. Please uninstall any unused apps.</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
+</resources>
